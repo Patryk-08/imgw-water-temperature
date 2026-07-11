@@ -121,3 +121,64 @@ Lp.,Lokalizacja,Nazwa stacji hydrologicznej,Województwo,Temperatura wody,date
 59,Jez. Wigry,WIGRY,podlaskie,18.3,2026-07-10
 60,Jez. Studzieniczne,PRZEWIĘŹ,podlaskie,18.1,2026-07-10
 61,Jez. Morskie Oko,MORSKIE OKO,małopolskie,10.8,2026-07-10
+1,Morze Bałtyckie,ŚWINOUJŚCIE,zachodniopomorskie,19.0,2026-07-11
+2,Morze Bałtyckie,KOŁOBRZEG,zachodniopomorskie,18.5,2026-07-11
+3,Morze Bałtyckie,DARŁOWO,zachodniopomorskie,18.0,2026-07-11
+4,Morze Bałtyckie,USTKA,pomorskie,17.6,2026-07-11
+5,Morze Bałtyckie,ŁEBA,pomorskie,17.9,2026-07-11
+6,Morze Bałtyckie,DĘBKI,pomorskie,17.4,2026-07-11
+7,Morze Bałtyckie,WŁADYSŁAWOWO,pomorskie,17.5,2026-07-11
+8,Morze Bałtyckie,HEL,pomorskie,17.1,2026-07-11
+9,Morze Bałtyckie,PUCK,pomorskie,17.2,2026-07-11
+10,Morze Bałtyckie,GDYNIA,pomorskie,17.2,2026-07-11
+11,Morze Bałtyckie,GDAŃSK - PORT PÓŁNOCNY,pomorskie,brak danych,2026-07-11
+12,Morze Bałtyckie,NOWY ŚWIAT - UJŚCIE,pomorskie,17.7,2026-07-11
+13,Zalew Wiślany,NOWY ŚWIAT - ZALEW,pomorskie,17.0,2026-07-11
+14,Zalew Wiślany,KRYNICA MORSKA,pomorskie,17.0,2026-07-11
+15,Zalew Wiślany,OSŁONKA,pomorskie,brak danych,2026-07-11
+16,Elbląg,NOWAKOWO,warmińsko-mazurskie,brak danych,2026-07-11
+17,Zalew Wiślany,TOLKMICKO,warmińsko-mazurskie,16.2,2026-07-11
+18,Zalew Wiślany,NOWA PASŁĘKA,warmińsko-mazurskie,18.4,2026-07-11
+19,Cieśnina Dziwna,WOLIN,zachodniopomorskie,19.3,2026-07-11
+20,Jez. Morzycko,PRZYJEZIERZE,zachodniopomorskie,23.8,2026-07-11
+21,Jez. Ińsko,IŃSKO,zachodniopomorskie,19.8,2026-07-11
+22,Jez. Lubie,LUBIESZEWO,zachodniopomorskie,19.8,2026-07-11
+23,Jez. Ostrowite,WYSPA POKRZYWKA,zachodniopomorskie,20.7,2026-07-11
+24,Jez. Jamno,UNIEŚCIE,zachodniopomorskie,20.4,2026-07-11
+25,Jez. Komorze,SIKORY,zachodniopomorskie,19.9,2026-07-11
+26,Jez. Drawsko,CZAPLINEK,zachodniopomorskie,18.7,2026-07-11
+27,Jez. Bytyń Wielki,NAKIELNO,zachodniopomorskie,19.9,2026-07-11
+28,Jez. Gardno,GARDNA WIELKA,pomorskie,17.8,2026-07-11
+29,Jez. Łebsko,IZBICA,pomorskie,16.0,2026-07-11
+30,Jez. Jasień Pd.,JASIEŃ,pomorskie,18.2,2026-07-11
+31,Jez. Charzykowskie,CHARZYKOWY,pomorskie,17.3,2026-07-11
+32,Jez. Wdzydze,JEZIORNA,pomorskie,18.1,2026-07-11
+33,Jez. Raduńskie Górne,BORUCINO,pomorskie,17.9,2026-07-11
+34,Jez. Ostrzyckie,OSTRZYCE,pomorskie,17.8,2026-07-11
+35,Jez. Dzierzgoń,PRABUTY,pomorskie,17.5,2026-07-11
+36,Jez. Żabie,ŁUGI,lubuskie,19.4,2026-07-11
+37,Jez. Niesłysz,PRZEŁAZY,lubuskie,21.4,2026-07-11
+38,Jez. Sławskie,RADZYŃ,lubuskie,21.0,2026-07-11
+39,Jez. Sławianowskie,BUNTOWO,wielkopolskie,19.3,2026-07-11
+40,Jez. Powidzkie,POWIDZ,wielkopolskie,brak danych,2026-07-11
+41,Jez. Sępoleńskie,SĘPÓLNO KRAJEŃSKIE,kujawsko-pomorskie,19.5,2026-07-11
+42,Jez. Gopło,KRUSZWICA,kujawsko-pomorskie,19.4,2026-07-11
+43,Jez. Bachotek,BACHOTEK,kujawsko-pomorskie,18.4,2026-07-11
+44,Jez. Druzno,ŻUKOWO,warmińsko-mazurskie,17.6,2026-07-11
+45,Jez. Jeziorak,IŁAWA,warmińsko-mazurskie,18.3,2026-07-11
+46,Jez. Dadaj,DADAJ,warmińsko-mazurskie,18.1,2026-07-11
+47,Jez. Nidzkie,RUCIANE-NIDA,warmińsko-mazurskie,18.4,2026-07-11
+48,Jez. Mikołajskie,MIKOŁAJKI,warmińsko-mazurskie,17.6,2026-07-11
+49,Jez. Śniardwy,GŁODOWO,warmińsko-mazurskie,17.4,2026-07-11
+50,Jez. Roś,MALDANIN,warmińsko-mazurskie,18.5,2026-07-11
+51,Jez. Mamry,PRZYSTAŃ,warmińsko-mazurskie,17.1,2026-07-11
+52,Jez. Litygajno,BORKI,warmińsko-mazurskie,17.5,2026-07-11
+53,Jez. Ełckie,EŁK,warmińsko-mazurskie,17.6,2026-07-11
+54,Jez. Selmęt Wielki,SORDACHY,warmińsko-mazurskie,17.8,2026-07-11
+55,Jez. Białe Augustowskie,PRZEWIĘŹ,podlaskie,19.1,2026-07-11
+56,Jez. Rospuda Filipowska,WÓLKA,podlaskie,17.6,2026-07-11
+57,Jez. Hańcza,WRÓBEL,podlaskie,18.0,2026-07-11
+58,Jez. Rajgrodzkie,RAJGRÓD,podlaskie,18.7,2026-07-11
+59,Jez. Wigry,WIGRY,podlaskie,18.6,2026-07-11
+60,Jez. Studzieniczne,PRZEWIĘŹ,podlaskie,18.4,2026-07-11
+61,Jez. Morskie Oko,MORSKIE OKO,małopolskie,10.8,2026-07-11
